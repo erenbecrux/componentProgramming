@@ -1,0 +1,219 @@
+12:28:22.283 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+12:28:22.290 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+12:28:22.292 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+12:28:22.293 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+12:28:22.346 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+12:28:22.352 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+12:28:22.358 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+12:28:22.469 INFO  org.example.SudokuField - "Successfull comparison."
+12:28:22.470 INFO  org.example.SudokuField - "Successfull comparison."
+12:28:22.471 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+12:42:38.080 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+12:42:38.126 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+12:42:38.130 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+12:42:38.131 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+12:42:38.199 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+12:42:38.209 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+12:42:38.216 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+12:42:38.477 INFO  org.example.SudokuField - "Successfull comparison."
+12:42:38.478 INFO  org.example.SudokuField - "Successfull comparison."
+12:42:38.478 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+14:11:51.423 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+14:11:51.434 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:11:51.438 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:11:51.439 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:11:51.492 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+14:11:51.503 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+14:11:51.509 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+14:11:51.636 INFO  org.example.SudokuField - "Successfull comparison."
+14:11:51.637 INFO  org.example.SudokuField - "Successfull comparison."
+14:11:51.637 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+14:12:10.869 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+14:12:10.884 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:12:10.890 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:12:10.890 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:12:10.938 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+14:12:10.947 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+14:12:10.953 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+14:12:11.056 INFO  org.example.SudokuField - "Successfull comparison."
+14:12:11.057 INFO  org.example.SudokuField - "Successfull comparison."
+14:12:11.058 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+14:14:05.308 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+14:14:05.323 INFO  org.example.FileSudokuBoardDao - "Kapama basarili"
+14:14:05.326 INFO  org.example.FileSudokuBoardDao - "Kapama basarili"
+14:14:05.327 INFO  org.example.FileSudokuBoardDao - "Kapama basarili"
+14:14:05.373 INFO  org.example.FileSudokuBoardDao - "Yazma basarili"
+14:14:05.379 INFO  org.example.FileSudokuBoardDao - "Okuma basarili.
+14:14:05.383 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+14:14:05.485 INFO  org.example.SudokuField - "Karsilastirma basarili"
+14:14:05.486 INFO  org.example.SudokuField - "Karsilastirma basarili"
+14:14:05.487 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null14:50:22.763 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+14:50:22.772 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:50:22.774 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:50:22.775 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+14:50:22.829 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+14:50:22.840 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+14:50:22.846 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+14:50:22.944 INFO  org.example.SudokuField - "Successfull comparison."
+14:50:22.945 INFO  org.example.SudokuField - "Successfull comparison."
+14:50:22.945 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+15:11:53.171 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+15:11:53.178 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+15:11:53.180 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+15:11:53.181 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+15:11:53.233 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+15:11:53.242 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+15:11:53.246 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+15:11:53.333 INFO  org.example.SudokuField - "Successfull comparison."
+15:11:53.333 INFO  org.example.SudokuField - "Successfull comparison."
+15:11:53.334 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+20:11:03.202 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+20:11:03.212 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:03.215 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:03.215 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:03.253 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+20:11:03.259 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+20:11:03.263 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+20:11:04.248 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:04.249 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:04.250 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+20:11:20.126 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+20:11:20.136 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:20.140 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:20.141 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:20.180 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+20:11:20.186 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+20:11:20.189 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+20:11:21.173 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:21.174 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:21.174 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+20:11:35.126 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+20:11:35.145 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:35.149 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:35.150 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:35.227 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+20:11:35.236 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+20:11:35.243 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+20:11:36.939 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:36.940 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:36.941 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+20:11:52.058 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+20:11:52.082 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:52.087 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:52.090 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:11:52.157 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+20:11:52.167 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+20:11:52.173 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+20:11:53.979 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:53.980 INFO  org.example.SudokuField - "Successfull comparison."
+20:11:53.981 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+20:12:05.649 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+20:12:05.676 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:12:05.682 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:12:05.683 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:12:05.753 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+20:12:05.763 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+20:12:05.770 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+20:12:07.396 INFO  org.example.SudokuField - "Successfull comparison."
+20:12:07.396 INFO  org.example.SudokuField - "Successfull comparison."
+20:12:07.397 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+20:12:22.056 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+20:12:22.075 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:12:22.080 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:12:22.081 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+20:12:22.143 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+20:12:22.154 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+20:12:22.160 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+20:12:23.754 INFO  org.example.SudokuField - "Successfull comparison."
+20:12:23.755 INFO  org.example.SudokuField - "Successfull comparison."
+20:12:23.756 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:29:03.918 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:29:03.930 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:29:03.934 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:29:03.935 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:29:03.981 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:29:03.987 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:29:03.992 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:29:05.490 INFO  org.example.SudokuField - "Successfull comparison."
+19:29:05.492 INFO  org.example.SudokuField - "Successfull comparison."
+19:29:05.492 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:31:56.264 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:31:56.271 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:31:56.274 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:31:56.274 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:31:56.335 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:31:56.341 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:31:56.348 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:31:57.802 INFO  org.example.SudokuField - "Successfull comparison."
+19:31:57.803 INFO  org.example.SudokuField - "Successfull comparison."
+19:31:57.803 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:34:31.132 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:34:31.142 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:34:31.145 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:34:31.145 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:34:31.193 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:34:31.202 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:34:31.207 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:34:32.532 INFO  org.example.SudokuField - "Successfull comparison."
+19:34:32.533 INFO  org.example.SudokuField - "Successfull comparison."
+19:34:32.534 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:41:08.070 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:41:08.078 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:41:08.080 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:41:08.081 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:41:08.131 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:41:08.138 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:41:08.143 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:41:09.454 INFO  org.example.SudokuField - "Successfull comparison."
+19:41:09.455 INFO  org.example.SudokuField - "Successfull comparison."
+19:41:09.455 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:44:20.870 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:44:20.879 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:44:20.882 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:44:20.883 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:44:20.926 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:44:20.933 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:44:20.937 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:44:22.199 INFO  org.example.SudokuField - "Successfull comparison."
+19:44:22.200 INFO  org.example.SudokuField - "Successfull comparison."
+19:44:22.200 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:50:59.939 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:50:59.947 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:50:59.950 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:50:59.950 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:00.010 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:51:00.019 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:51:00.025 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:51:01.329 INFO  org.example.SudokuField - "Successfull comparison."
+19:51:01.330 INFO  org.example.SudokuField - "Successfull comparison."
+19:51:01.330 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:51:27.029 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:51:27.040 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:27.044 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:27.044 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:27.090 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:51:27.097 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:51:27.102 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:51:28.372 INFO  org.example.SudokuField - "Successfull comparison."
+19:51:28.372 INFO  org.example.SudokuField - "Successfull comparison."
+19:51:28.374 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:51:53.289 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:51:53.296 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:53.298 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:53.299 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:51:53.353 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:51:53.362 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:51:53.367 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:51:54.725 INFO  org.example.SudokuField - "Successfull comparison."
+19:51:54.726 INFO  org.example.SudokuField - "Successfull comparison."
+19:51:54.727 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
+19:54:21.827 INFO  org.example.FileSudokuBoardDao - error\deneme.txt (The system cannot find the path specified)
+19:54:21.836 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:54:21.838 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:54:21.839 INFO  org.example.FileSudokuBoardDao - "Successfull close."
+19:54:21.887 INFO  org.example.FileSudokuBoardDao - "Successfull writing."
+19:54:21.895 INFO  org.example.FileSudokuBoardDao - "Successfull reading."
+19:54:21.899 INFO  org.example.FileSudokuBoardDao - .\nonexist.txt (The system cannot find the file specified)
+19:54:23.226 INFO  org.example.SudokuField - "Successfull comparison."
+19:54:23.227 INFO  org.example.SudokuField - "Successfull comparison."
+19:54:23.227 ERROR org.example.SudokuField - Cannot invoke "org.example.SudokuField.getFieldValue()" because "o" is null
